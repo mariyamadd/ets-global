@@ -1,0 +1,10 @@
+# Ignore node_modules
+node_modules
+npm-debug.log
+.DS_Store
+
+# Ignore local git repo
+.git
+
+# Ignore other unwanted files
+.env
